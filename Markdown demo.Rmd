@@ -1,0 +1,18 @@
+---
+title: "R markdown_demo"
+author: "Askia"
+date: "2/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+this is a demo of R markdown
+
+here is a calculation:
+```[r]
+2 + 2
+```
